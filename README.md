@@ -47,20 +47,9 @@ Full Stack Developer
 ## :paperclip: How to reach me:
 <span>
 <a href="https://www.linkedin.com/in/franco-coronel-2b4505230/">
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-linkedin" width="40" height="40" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <rect x="4" y="4" width="16" height="16" rx="2"></rect>
-   <line x1="8" y1="11" x2="8" y2="16"></line>
-   <line x1="8" y1="8" x2="8" y2="8.01"></line>
-   <line x1="12" y1="16" x2="12" y2="11"></line>
-   <path d="M16 16v-3a2 2 0 0 0 -4 0"></path>
-</svg>
+Linkedin
 </a>
 <a href="mailto:francocoronelms169@gmail.com">
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mail" width="40" height="40" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-   <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-   <rect x="3" y="5" width="18" height="14" rx="2"></rect>
-   <polyline points="3 7 12 13 21 7"></polyline>
-</svg>
+Mail
 </a>
 </span>
